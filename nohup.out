@@ -1,0 +1,110 @@
+[I 17:29:40.505 NotebookApp] Serving notebooks from local directory: /home/ec2-user/src/chla
+[I 17:29:40.505 NotebookApp] 0 active kernels 
+[I 17:29:40.505 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 17:29:40.506 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:30:13.018 NotebookApp] 302 GET / (216.228.112.22) 0.78ms
+[I 17:30:13.103 NotebookApp] 302 GET /tree (216.228.112.22) 0.93ms
+[I 17:30:31.953 NotebookApp] 302 POST /login?next=%2Ftree (216.228.112.22) 1.22ms
+[W 17:30:37.964 NotebookApp] Notebook CHLA_rnn_tutorial.ipynb is not trusted
+[W 17:30:38.094 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160914172939 (216.228.112.22) 11.17ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/notebooks/CHLA_rnn_tutorial.ipynb
+[I 17:30:38.947 NotebookApp] Kernel started: 3c9adf5a-1876-452a-9a27-b9fc74a8f2ea
+[I 17:30:38.955 NotebookApp] 302 GET /notebooks/images/imputation_diagram.svg (216.228.112.22) 0.95ms
+[I 17:30:38.956 NotebookApp] 302 GET /notebooks/images/ehr.svg (216.228.112.22) 0.86ms
+[I 17:30:39.033 NotebookApp] 302 GET /notebooks/images/drted_rnn.svg (216.228.112.22) 1.11ms
+[I 17:30:39.049 NotebookApp] 302 GET /notebooks/images/RNN_performance.svg (216.228.112.22) 0.95ms
+[I 17:30:39.050 NotebookApp] 302 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.22) 0.87ms
+[I 17:32:39.191 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 17:32:39.192 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 17:42:16.802 NotebookApp] 302 GET /notebooks/data/ehr_features.csv (216.228.112.22) 1.12ms
+[W 17:43:51.552 NotebookApp] SSL Error on 10 ('120.132.50.135', 52860): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 17:52:39.808 NotebookApp] WebSocket ping timeout after 119912 ms.
+[W 18:19:36.596 NotebookApp] WebSocket ping timeout after 119919 ms.
+[W 19:01:26.804 NotebookApp] WebSocket ping timeout after 119885 ms.
+[W 20:05:14.406 NotebookApp] Notebook CHLA_rnn_tutorial.ipynb is not trusted
+[W 20:05:14.441 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160914172939 (216.228.112.21) 1.65ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/notebooks/CHLA_rnn_tutorial.ipynb
+[I 20:05:15.332 NotebookApp] 302 GET /notebooks/images/drted_rnn.svg (216.228.112.21) 1.03ms
+[I 20:05:15.333 NotebookApp] 302 GET /notebooks/images/RNN_performance.svg (216.228.112.21) 0.90ms
+[I 20:05:15.334 NotebookApp] 302 GET /notebooks/images/ehr.svg (216.228.112.21) 0.88ms
+[I 20:05:15.336 NotebookApp] 302 GET /notebooks/images/imputation_diagram.svg (216.228.112.21) 0.86ms
+[I 20:05:15.485 NotebookApp] 302 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.21) 0.87ms
+[W 20:06:28.996 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160914172939 (216.228.112.21) 1.61ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/notebooks/CHLA_rnn_tutorial.ipynb
+[W 20:06:29.238 NotebookApp] Notebook CHLA_rnn_tutorial.ipynb is not trusted
+[I 20:06:29.706 NotebookApp] 302 GET /notebooks/images/ehr.svg (216.228.112.21) 0.89ms
+[I 20:06:29.802 NotebookApp] 302 GET /notebooks/images/imputation_diagram.svg (216.228.112.21) 0.87ms
+[I 20:06:29.874 NotebookApp] 302 GET /notebooks/images/drted_rnn.svg (216.228.112.21) 0.89ms
+[I 20:06:30.041 NotebookApp] 302 GET /notebooks/images/RNN_performance.svg (216.228.112.21) 0.93ms
+[I 20:06:30.043 NotebookApp] 302 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.21) 0.89ms
+[W 20:06:46.479 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 20:10:30.397 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:10:30.398 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:12:30.218 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:12:30.219 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:14:30.137 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:14:30.138 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:15:10.317 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:15:10.318 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:16:30.458 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:16:30.459 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:26:30.445 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:26:30.446 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 20:28:30.277 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 20:28:30.278 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[W 20:49:00.732 NotebookApp] WebSocket ping timeout after 119814 ms.
+[W 21:15:44.661 NotebookApp] WebSocket ping timeout after 119833 ms.
+[W 23:41:34.331 NotebookApp] Notebook CHLA_rnn_tutorial.ipynb is not trusted
+[W 23:41:34.361 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20160914172939 (216.228.112.21) 1.58ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/notebooks/CHLA_rnn_tutorial.ipynb
+[I 23:41:34.761 NotebookApp] 302 GET /notebooks/images/ehr.svg (216.228.112.21) 0.94ms
+[I 23:41:34.859 NotebookApp] 302 GET /notebooks/images/imputation_diagram.svg (216.228.112.21) 0.90ms
+[I 23:41:34.939 NotebookApp] 302 GET /notebooks/images/drted_rnn.svg (216.228.112.21) 0.89ms
+[I 23:41:35.126 NotebookApp] 302 GET /notebooks/images/MortalityThroughTime.svg (216.228.112.21) 0.87ms
+[I 23:41:35.127 NotebookApp] 302 GET /notebooks/images/RNN_performance.svg (216.228.112.21) 0.86ms
+[W 23:45:35.771 NotebookApp] WebSocket ping timeout after 119832 ms.
+[W 00:07:11.035 NotebookApp] WebSocket ping timeout after 119918 ms.
+[I 02:38:32.425 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:38:32.426 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[W 02:38:41.597 NotebookApp] SSL Error on 33 ('93.174.93.136', 38824): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:600)
+[W 02:44:57.297 NotebookApp] WebSocket ping timeout after 119798 ms.
+[I 02:48:32.133 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:48:32.134 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 02:50:31.881 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:50:31.882 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 02:52:31.784 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:52:31.785 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 02:56:31.771 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:56:31.773 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 02:58:31.770 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 02:58:31.771 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:04:31.759 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:04:31.760 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:06:31.756 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:06:31.757 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:14:31.742 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:14:31.743 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:16:31.741 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:16:31.742 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:18:31.747 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:18:31.748 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:26:31.722 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:26:31.723 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:28:31.717 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:28:31.718 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:38:31.699 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:38:31.700 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:40:31.696 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:40:31.697 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:48:31.685 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:48:31.686 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:50:31.680 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:50:31.681 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:52:22.904 NotebookApp] Saving file at /CHLA_rnn_tutorial.ipynb
+[W 03:52:22.905 NotebookApp] Saving untrusted notebook CHLA_rnn_tutorial.ipynb
+[I 03:53:15.512 NotebookApp] 302 GET /api/sessions?_=1473911514736 (216.228.112.21) 1.16ms
+[I 03:53:15.513 NotebookApp] 302 GET /api/terminals?_=1473911514737 (216.228.112.21) 0.64ms
+[W 03:53:21.408 NotebookApp] 403 DELETE /api/sessions/b4678244-d23c-460a-a83a-6f761219c979 (216.228.112.21) 2.12ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/tree
+[W 03:53:25.221 NotebookApp] 403 DELETE /api/sessions/b4678244-d23c-460a-a83a-6f761219c979 (216.228.112.21) 1.83ms referer=https://ec2-54-197-16-119.compute-1.amazonaws.com:8888/tree
+[I 03:54:30.836 NotebookApp] 302 GET / (216.228.112.21) 0.54ms
+[I 03:54:30.967 NotebookApp] 302 GET /tree (216.228.112.21) 0.68ms
+[I 03:54:35.090 NotebookApp] 302 POST /login?next=%2Ftree (216.228.112.21) 1.29ms
+[C 03:54:59.626 NotebookApp] received signal 15, stopping
+[I 03:54:59.627 NotebookApp] Shutting down kernels
+[I 03:54:59.828 NotebookApp] Kernel shutdown: 3c9adf5a-1876-452a-9a27-b9fc74a8f2ea
